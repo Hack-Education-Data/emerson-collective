@@ -1,3 +1,3 @@
-## The Emerson Collective
+## Data about the Emerson Collective
 
-This repository contains data about the venture philanthropy firm Emerson Collective
+This is a Hack Education project, tracking the financial and social networks of the Emerson Collective
