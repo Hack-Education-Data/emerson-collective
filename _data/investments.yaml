@@ -1,52 +1,27 @@
 - Name: Neighborly
-  Date: 2017-05
-  Amount: '$25,000,000'
-  Notes: >-
-    Neighborly modernizes access to public finance, the $1 billion dollar per
-    day market that funds vital public projects like schools & parks
+  Date: '2017'
+  Notes: $25 million in Series A
 - Name: OpenGov
-  Date: 2017-05
-  Amount: '$30,000,000'
-  Notes: >-
-    OpenGov offers cloud-based software that visualizes municipal financial
-    data, allowing governments to access, analyze, and share data
+  Date: '2017'
+  Notes: $30 million in Series C
 - Name: FreshGrade
-  Date: 2016-05
-  Amount: '$11,600,000'
-  Notes: >-
-    FreshGrade is a better way to document and communicate learning while
-    engaging educators, students, parents and leaders
+  Date: '2016'
+  Notes: $11.6 million in Series A
 - Name: Nearpod
-  Date: 2016-05
-  Amount: '$9,200,000'
-  Notes: >-
-    Nearpod is a mobile app that enables teachers to create and share
-    interactive multimedia presentations with their students
+  Date: '2016'
+  Notes: $9.2 million in Series A
 - Name: Ellevation
-  Date: 2016-02
-  Amount: '$6,400,000'
-  Notes: >-
-    The only web-based software platform specifically designed for ELL educators
-    and the English Learners they serve
+  Date: '2016'
+  Notes: $6.4 million in venture funding
 - Name: Udacity
-  Date: 2015-11
-  Amount: '$105,000,000'
-  Notes: >-
-    Udacity provides online courses and credentials, built by AT&T, Google, etc.
-    for data analysts, web or mobile developers
+  Date: '2015'
+  Notes: $105 million in Series D
 - Name: AltSchool
-  Date: 2015-05
-  Amount: '$100,000,000'
-  Notes: >-
-    AltSchool is a network of schools with an interdisciplinary team aimed at
-    offering experimental learning
+  Date: '2015'
+  Notes: $100 million in Series B
 - Name: FreshGrade
-  Date: 2014-08
-  Amount: '$4,300,000'
-  Notes: >-
-    FreshGrade is a better way to document and communicate learning while
-    engaging educators, students, parents and leaders
-- Name: The Atlantic
-  Date: 2017-07
-  Amount: unknown
-  Notes: A majority stake in the publication
+  Date: '2014'
+  Notes: $4.3 million in seed funding
+- Name: Digital Promise
+  Date: ''
+  Notes: ''
